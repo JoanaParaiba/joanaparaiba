@@ -1,18 +1,3 @@
-<!--
-**JoanaParaiba/joanaparaiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hey, I'm Joana 👋
 
 Front-end developer based in Lisbon. Passionate about crafting amazing digital experiences.
@@ -21,17 +6,17 @@ Front-end developer based in Lisbon. Passionate about crafting amazing digital e
 
 **Frontend Development:** `HTML` `CSS` `Javascript` `React` `TypeScript`
 
-**Version Control:** `Git` `GitLab` 
-
 **Backend Development:** `GraphQL`
 
-**Testing:** `Playwright` `Postman` 
+**Version Control:** `Git` `GitLab` 
+
+**Testing:** `Playwright` `Jest` `Postman` 
 
 **Project Management:** `Jira` `Confluence` `Trello`
 
-**Methodologies:** `Agile (Scrum, Kanban)`
+**Methodologies:** `Agile (Scrum, Kanban)` `Design Thinking`
 
-**Others:** `Storybook` `A11y`
+**Others:** `Storybook` `A11y` `OWASP`
 
 
 ## ✨ Fun Facts
