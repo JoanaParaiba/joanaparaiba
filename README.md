@@ -35,7 +35,7 @@ Front-end developer based in Lisbon. Passionate about crafting amazing digital e
 
 
 ## ✨ Fun Facts
-- I'm also a designer, and I switched from design to development a few years back 🎨
+- I'm also a designer. I switched from design to development a few years back 🎨
 - Proud pet and plant momma 🌱🐾
 
 
