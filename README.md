@@ -10,7 +10,7 @@ Front-end developer based in Lisbon. Passionate about crafting amazing digital e
 
 **Version Control:** `Git` `GitLab` 
 
-**Testing:** `Playwright` `Jest` `Postman` 
+**Testing:** `Playwright` `Jest` `Playwright` `Postman` 
 
 **Project Management:** `Jira` `Confluence` `Trello`
 
